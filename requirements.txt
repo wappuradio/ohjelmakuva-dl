@@ -1,0 +1,4 @@
+wheel==0.45.1
+gdown==5.2.0
+python-iconv==1.1.2
+pillow==11.2.0

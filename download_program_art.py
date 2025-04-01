@@ -11,7 +11,7 @@ import gdown
 import csv
 from utils import program_name_to_filename
 
-SKIP_DUPLICATES = False
+SKIP_DUPLICATES = True
 IMG_DOWNLOAD_DIR = "./img_downloads"
 
 DEFAULT_CSV_PATH = "ohjelmakuvat.csv"
